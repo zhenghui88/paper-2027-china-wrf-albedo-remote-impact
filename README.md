@@ -1,4 +1,4 @@
-# Nonlocal Atmospheric Response to Soil Albedo in Northwest China
+# Nonlocal atmospheric response to satellite-constrained soil albedo in Northwest China improves climate simulations of North China
 
 Source files for a manuscript written in Markdown and compiled to Word with Pandoc.
 
@@ -7,7 +7,8 @@ Source files for a manuscript written in Markdown and compiled to Word with Pand
 - `main.md` — main manuscript source
 - `references.bib` — bibliography database
 - `fig/` — manuscript figures
-- `style-agu.csl` — AGU/GRL citation style
+- `style-agu.csl` — AGU citation style
+- `style-nature.csv` --- Nature citation style
 - `template-agu.docx` — reference Word template for `main.docx`
 
 ## Build
