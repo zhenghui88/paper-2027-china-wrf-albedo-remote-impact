@@ -1,6 +1,6 @@
 # Project Structure
 
-This project contains a manuscript prepared for academic publication in npj Climate and Atmospheric Science (npj CAS).
+This project contains a manuscript prepared for academic publication in Journal of Geophysical Research: Atmospheres.
 
 ## File Overview
 
@@ -12,9 +12,8 @@ This project contains a manuscript prepared for academic publication in npj Clim
 
 ### Formatting & Guidelines
 
-- `npj_cas_guidelines.md`: Submission rules and constraints for npj Climate and Atmospheric Science (npj CAS).
-- `style-nature.csl`: Nature citation style definition.
-- `template-npj_cas.docx`: Microsoft Word template for npj CAS journals.
+- `style-agu.csl`: AGU citation style definition.
+- `template-agu.docx`: Microsoft Word template for AGU journals.
 
 ## Build Process
 
